@@ -1,0 +1,63 @@
+Name of Service,"Price for 5,000
+ subscribers/month",Contact Management,Pros,Cons,Usability,Summary Quote From Online Reviews
+Mad Mimi,$27,"""can add custom fields when user subscribes that will be included with contacts email"",
+""subscribers can be added to multiple email lists"",
+""manages insight about your subscribers with subscriber profiles with details on engagement with newsletters""","""cheapest"",
+""can send the same email to multiple lists at the same time"",
+""great customer support"",
+""can create separate mailing list sign up forms for different topics"",
+""auto-responder is sophisticated (you can set up autoresponders based on users clicks in emails)"",
+""offers free trial"",
+""API available""
+ 
+","no default templates like other mailing list options (Complete creative control)
+no split-testing
+simpler functionality than MailChimp, Aweber, etc.
+fewer 3rd party integrations than Mailchimp and Aweber","simple and clean interface
+drag and drop newsletter editor
+can use pre-set themes, colour schemes applied to a basic template","""Its basic feature set is strong; it is easy to use; and, particularly if you are dealing with a large mailing list, it is extraordinarily good value."""
+MailChimp,$50,"""can add custom fields when user subscribes that will be included with contacts email"",
+""subscribers can be added to multiple email lists"",
+""manages insight about your subscribers with subscriber profiles with details on engagement, website activity, etc."",
+""can manage subscribers with API""","""high delivery rates"",
+""sophisticated functionality"",
+""auto-responder is sophisticated (you can set up autoresponders based on other actions taken by users)"",
+""many 3rd party integrations"",
+""split testing"",
+""offers free trial"",
+""sophisticated analytical tracking""
+ 
+","""no phone support"",
+""can’t send an email to multiple lists at the same time""
+""can only make one sign up form per mailing list (no chance to test effectiveness of multiple options)"",
+""costly beyond 2.,500 subscribers a month""","""drag and drop newsletter editor with more functionality than MadMimi"",
+""many default or prestyled themes for newsletters""","""significantly more bells and whistles and has effectively become an industry standard solution for email marketing, offering advanced features"""
+Aweber,$30,"""can add custom fields when user subscribes to include with contacts email"",
+""can manage subscribers with API""","""high delivery rates"",
+""sophisticated functionality"",
+""direct support (7 days a week)"",
+""can make multiple sign up forms for each mailing list (and track performance of each)"",
+""many 3rd party integrations"",
+""spam-score for newsletter auto-calculated"",
+""split testing""
+ 
+","""can import old lists but subscribers need to sign up again (double opt-in)"",
+""limited data-importing capability"",
+""no free trial"",
+""reviewers mention a learning curse using the drag and drop newsletter editor""","""many default or pre-styled themes for newsletter"",
+""pre-styled sign up forms""","""ideal for bulk email marketing campaigns"""
+GetResponse,$45,"""easy isolate specific contacts and sending them campaigns based off of their behavior"",
+""can assign actions to the entire segment or to individual subscribers""","""high delivery rates"",
+""direct support (5 days a week)"",
+""sophisticated functionality"",
+""responsive email testing and preview"",
+""spam-score calculator"",
+""emails sent out according to subscribers local time"",
+""multiple ways to trigger an auto-responder"",
+""split testing"",
+""easy to import contacts""
+ 
+","""default sign up forms are not as stylish as competitiors (Aweber, Mailchimp)"",
+""more expensive per month than Aweber and MadMimi"",
+""no free trial""","""easy to use drag and drop newsletter editor"",
+""over 30 ready made newsletter templates""","""best for beginners or other email marketers who need user-friendly email creation tools and flexible templates"""
