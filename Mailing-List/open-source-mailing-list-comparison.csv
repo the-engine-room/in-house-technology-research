@@ -1,0 +1,22 @@
+Name,"Price for over 2,500 subscribers",Contact Management,Pros,Cons,Usability
+PoMMo,Free,"“can add custom fields when user subscribes that will be included with contacts email”,
+“Subscribers can update their own information and keep your database up to date
+easy creation of subscriber groups”","“can be installed, configured and run on any php server
+quick loading times”,
+“ability to mail subsets of your subscribers”,
+“Limit the sending of mails (throttle by hour, bytes, and domain limits)”","“must have experience installing on server”,
+“less direct support than proprietary options”","“simple but very functional layout”,
+“drag and drop field ordering”,
+“WYSIWYG HTML Mailing Creation”,
+“Look and Feel controlled by SMARTY template files”"
+phpList,$15 if hosted by phpList or free if self-hosted,"“can add custom fields when user subscribes that will be included with contacts email”,
+“Subscribers can update their own information and keep your database up to date”,
+“user management tools available to manage and maintain large databases of subscribers”","“web interface that lets you write and send messages, and manage the list over the internet”,
+""tracks links and URLs, statistics by message, URL and subscriber”,
+“helpful documentation”,
+“list segmentation”,
+“RSS”,
+“bounce management”","“must have experience installing on server”,
+“less direct support than proprietary options”","“templates are completely customizable”,
+“allows you to edit html messages using FCKeditor or TinyMCE”
+“multiple subscribe pages allow many different combinations of templates, languages, user attributes and lists”"
