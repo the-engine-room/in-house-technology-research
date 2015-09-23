@@ -1,0 +1,24 @@
+name,url,hosted,reputation for privacy (y/n/unknown),location of business,price,storage,group permissions control,2 step verification,Client-side data encryption,data encrypted at rest,data encrypted in traffic,"Automated, end-to-end encrypted backup",cloud backup,encrypted links for sharing,sharing outside of application,read-write access on shared folders,syncing,version control,collaborative editing platform,create documents on the platform,web portal to access files,"desktop, laptop OS compatability",mobile compatibility,can integrate Quickbooks,can integrate Microsoft Suite,notes
+Box,https://www.box.com/,hosted,unknown,USA,$15 / user/ month,Unlimited Storage,y,y,n,AES - 256,TLS encryption,n,y,n,y,y,y,y,"y, uses Drive",y,y,all but Linux,y,n,y,Box holds the keys to decrypt your files but doesn't have the same reputation as Dropbox or Microsoft when it comes to snooping on files.
+Tresorit,https://tresorit.com/,hosted,y,Switzerland and Hungary,$20 / user / month,1TB storage / user in total,y,y,y,AES - 256,TLS encryption,y,y,y,y,y,y,y,n,n,y,all but Linux,y,n,n,"More expensive than the rest, but better security."
+SpiderOakONE,https://spideroak.com/solutions/spideroak-one,hosted,y,USA,$12 / user / month/ $129 per year,1 TB,n,n,y,AES-256 in CFB mode and HMAC-SHA256.,TLS encryption,y,y,n,y,n,y,y,n,n,y,all,y,n,n,Unable to share folders that others can edit. Users must download and reupload to a share room they control.
+SpiderOak Groups,https://spideroak.com/solutions/spideroak-groups,hosted,y,USA,$5 / user / month (minumum 10 users),Unlimited Storage,y,n,y,AES-256 in CFB mode and HMAC-SHA256.,TLS encryption,y,y,n,y,n,y,y,n,n,y,all,y,n,n,Unable to share folders that others can edit. Users must download and reupload to a share room they control.
+Wuala Business,https://wuala.com/en/business,hosted,y,Switzerland,$4 / user / month (for 10 users),100 GB,y,n,y,AES - 256,TLS encryption,y,y,y,y,y,y,y,y,n,n,all,y,n,n,
+Sugar Sync Business,https://www.sugarsync.com/company/,hosted,unknown,USA,$15 / user / month (for 7 users),1000 GB,y,n,n,AES - 256,TLS encryption,y,y,n,y,y,y,y,y,n,y,all but Linux,y,n,y,"Easy to use, can sync any folder on your computer to be a shared, backed up folder"
+OwnCloud,https://owncloud.org,self-hosted,y,Germany,Free (price of a server and management),As much as your server can hold,y,n,n,Encryption quality relies on trustworthy server management,TLS encryption,n,n (hosted up on your server only),n,y,y,y,y,y (simple txt),y,y,all,y,n,"in beta phase, not available to public",Requires the org host OwnCloud on their own servers
+BitTorrent Sync,https://www.getsync.com/,no hosting necessary,y,USA,€34.99/yr per user,storage limited to space on your device,y,n,n,n, AES-128 ,n,n,n,n,y,y,y,no built in editing app,n,n,all,y,n,n,"16X faster than the cloud and you don't need to worry about trusting a company because all sharing happens from device to device, NOT A CLOUD BASED BACKUP SOLUTION"
+Peerio,https://peerio.com/,no hosting necessary,y,Global,FREE,"1.2 GB of backed up encrypted storage, storage limited to space on your device",n,n,y,y,TLS encryption,y,n,y,n,n,"syncs across the plugin, whereever you install and login",n,n,n,browser plugin,browser-based,n,n,n,"More like email, sharing back and forth edited files."
+OneDrive Business,https://onedrive.live.com/about/en-us/business/,hosted,n,USA,£3.10 / user / month,1 TB /  user,y,y,n,n,TLS encryption,n,y,n,y,y,y,y,y,y,y,all but Linux,y,n,y,Infamous for weak data protection
+OneDrive Personal,https://onedrive.live.com/about/en-gb/,hosted,n,USA,$6.99 USD / month,1 TB /  user,n,y,n,n,TLS encryption,n,y,n,y,y,y,y,y,y,y,all but Linux,y,n,y,Infamous for weak data protection
+Dropbox Business,https://dropbox.com,hosted,n,USA,€12 / user / month,Unlimited Storage,y,y,n,AES - 256,TLS encryption,n,y,y,y,y,y,y,future y,n,y,all,y,n,y,Current file sharing application used by SOU. Examples of hacked accounts on Dropbox.
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+key,,,,,,,,,,,,,,,,,,,,,,,,,,
+Most Known For Security,,,,,,,,,,,,,,,,,,,,,,,,,,
+Feature-Integration Rich,,,,,,,,,,,,,,,,,,,,,,,,,,
+Peer-to-Peer (very little to no automated backup),,,,,,,,,,,,,,,,,,,,,,,,,,
+resources,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://lifehacker.com/the-best-cloud-storage-services-that-protect-your-priva-729639300,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://lifehacker.com/how-and-why-to-ditch-dropbox-and-sync-files-with-bitt-1686702811,,,,,,,,,,,,,,,,,,,,,,,,,,
