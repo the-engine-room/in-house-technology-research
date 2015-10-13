@@ -6,6 +6,9 @@ You can annotate these pages:
 These webpages use hypothes.is scripts to allow commenting, highlighting and general live web annotation. This means that anyone can comment on the content, to help us improve it over time. Read more about the amazing hypothes.is project at https://hypothes.is/.
 
 **Here’s how:**
+
+![](https://raw.githubusercontent.com/the-engine-room/in-house-technology-research/master/annotation.png)
+
 See those three icons popping up in the top right hand corner of the screen?
 That’s how you access and control the web annotation software. In descending order, they will allow you to open the control panel, to hide highlights and annotations, or to show comments for the page. 
 
