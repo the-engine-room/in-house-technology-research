@@ -14,3 +14,6 @@ Contents
    :glob:
 
    DNS
+   github
+   hosting
+   onboarding
