@@ -1,4 +1,4 @@
-Getting Started
+Hosting
 ===============
 
 This document will show you how to get up and running with Read the Docs.
